@@ -43,7 +43,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"email\": \"qa.sofi@gmail.com\",\r\n  \"password\": \"ABC123\"\r\n}",
+					"raw": "{\r\n  \"email\": \"ask_instr@aol.com\",\r\n  \"password\": \"ABC123\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
