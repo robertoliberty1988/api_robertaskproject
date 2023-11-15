@@ -159,7 +159,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "{{baseURL}}/quiz/{{quizId}}",
+					"raw": "{{baseURL}}/quiz/{{quizID}}",
 					"host": [
 						"{{baseURL}}"
 					],
